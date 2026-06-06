@@ -1,44 +1,42 @@
-# AI Career Mentor Chatbot
+==================================================
+🎓 AI CAREER MENTOR FOR MCA STUDENTS
+==================================================
 
-## Overview
-
-AI Career Mentor is a chatbot built using Python and the Inception Labs API. It helps MCA students with career guidance, AI/ML learning paths, project suggestions, interview preparation, and skill development.
-
-## Features
-
-* Career Guidance
-* AI Engineer Roadmap
-* MCA Project Suggestions
-* Interview Preparation
-* Resume Guidance
-
-## Technologies Used
-
-* Python
-* Requests
-* Python-Dotenv
-* Inception Labs API
-
-## Installation
-
-Install the required packages:
-
-pip install requests python-dotenv
-
-## Configuration
-
-Create a `.env` file and add your API key:
-
-INCEPTION_API_KEY=your_api_key_here
-
-## Run the Project
-
-python chatbot.py
-
-## Sample Question
-
+Question:
 How can an MCA student become an AI Engineer?
 
-## Author
+🤖 AI CAREER MENTOR RESPONSE
 
-Your Name
+🎯 Goal: Become an AI Engineer  
+
+📚 Skills:  
+• Knowledge of ML algorithms  
+• Data handling and preprocessing  
+
+💻 Projects:  
+• Build a simple image classifier  
+• Create a chatbot using NLP  
+
+🚀 Next Step: Join an internship or an online AI course to get real‑world experience.
+PS C:\Users\user\Desktop\AI_Career_Mentor> python chatbot.py
+==================================================
+🎓 AI CAREER MENTOR FOR MCA STUDENTS
+==================================================
+
+Question:
+How can an MCA student become an AI Engineer?
+
+🤖 AI CAREER MENTOR RESPONSE
+
+🎯 Goal:
+Become an AI Engineer  
+
+📚 Skills:
+• Data handling (SQL, pandas)  
+
+💻 Projects:
+• Build a simple image classifier  
+• Create a chatbot using NLP  
+
+🚀 Next Step:
+Do an internship or online AI course to get real‑world practice.
